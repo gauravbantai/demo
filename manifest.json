@@ -1,0 +1,38 @@
+{
+    "name": "bantai",
+    "display": "standalone",
+    "background_color": "pink",
+    "start_url": "/demo",
+    "icons": [
+        {
+            "src": "demo/assets/logo-48x48.png",
+            "type": "images/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "demo/assets/logo-72x72.png",
+            "type": "images/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "demo/assets/logo-96x96.png",
+            "type": "images/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "demo/assets/logo-144x144.png",
+            "type": "images/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "demo/assets/logo-192x192.png",
+            "type": "images/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "demo/assets/logo-512x512.png",
+            "type": "images/png",
+            "sizes": "512x512"
+        }
+    ]
+}
